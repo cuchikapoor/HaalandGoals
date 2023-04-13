@@ -1,4 +1,6 @@
 This is the general description of the the Haaland Goals app 
+## General
+
 # HOW TO RUN
 
 
